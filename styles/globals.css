@@ -1,11 +1,1 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-:root {
-  --color-silver: #C0C0C0;
-  --color-black: #000000;
-}
-
-.bg-silver { background-color: var(--color-silver); }
-.text-silver { color: var(--color-silver); }
+...
